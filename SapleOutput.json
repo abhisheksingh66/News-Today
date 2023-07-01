@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "News24",
+        "name": "News24"
+      },
+      "author": "Abhishek"  ,
+      "title": "How to beat Australia's 'juggernaut of success'",
+      "description": "It's the million-dollar question of women's cricket: How do you beat Australia?",
+      "url": "http://www.bbc.co.uk/sport/cricket/65918010",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/17ED0/production/_130100089_howdoenglandbeattheunbeatableteamindex.jpg",
+      "publishedAt": "2023-06-22T06:07:24.9697329Z",
+      "content": "Heather Knight is hoping to lead England to her first Ashes win as captain at the fourth attempt\r\n<table><tr><th>Women's Ashes Test 2023</th></tr>\r\n<tr><td>Venue: Trent Bridge Dates: 22-26 June</td><… [+6454 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "Abhishek",
+      "title": "'England will go on attack' - Women's Ashes Test preview",
+      "description": "BBC cricket pundits Ebony Rainford-Brent, Alison Mitchell and Henry Moeran look ahead to the start of the Women's Ashes.",
+      "url": "http://www.bbc.co.uk/sport/av/cricket/65964180",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/C701/production/_130154905_p0fw7jnt.jpg",
+      "publishedAt": "2023-06-22T05:37:18.7663553Z",
+      "content": "BBC cricket pundits Ebony Rainford-Brent, Alison Mitchell and Henry Moeran look ahead to the start of the Women's Ashes. \r\nThe Women's Ashes start on Thursday with a one-off Test - worth four points … [+214 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-sport",
+        "name": "BBC Sport"
+      },
+      "author": "Abhishek",
+      "title": "England and Australia prepare to step into unknown",
+      "description": "Australia are a dominant force in women's cricket, but they and England are facing a step into the unknown when the Women's Ashes begins on Thursday.",
+      "url": "http://www.bbc.co.uk/sport/cricket/65976942",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/A060/production/_130165014_microsoftteams-image-57.png",
+      "publishedAt": "2023-06-21T21:52:19.5630011Z",
+      "content": "'I feel like we're programmed the same' - Williamson on relationship with Knight\r\n<table><tr><th>Women's Ashes: England v Australia</th></tr>\r\n<tr><td>Venue: Trent Bridge Date: 22-26 June</td></tr><t… [+4982 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Abhishek",
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "espn-cric-info",
+        "name": "ESPN Cric Info"
+      },
+      "author": "Abhishek",
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
